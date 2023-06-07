@@ -27,10 +27,9 @@ Users should be able to:
 
 ## Built with
 
-- Semantic HTML5 markup
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [TailwindCss](https://tailwindcss.com/) - For styles
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [TailwindCss](https://tailwindcss.com/)
 
 ## Author
 
