@@ -20,7 +20,7 @@ Proporcionar aos usuarios do sistema:
 
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
-- [TailwindCss](https://tailwindcss.com/)]
+- [TailwindCss](https://tailwindcss.com/)
 
 ## Interfaace do sistema
 
