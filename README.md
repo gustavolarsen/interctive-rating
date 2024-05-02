@@ -1,37 +1,32 @@
 # Frontend Mentor - Interactive rating component solution
 
-![](./design/desktop-preview.jpg)
+Projeto desenvolvido para o desafio Frontend Mentor. Nos [Links](#Links) você podrá acessar o link da minha solução enviada ao site Frontend Mentor e acessar o site que está hospedado no vercel
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+## O desafio
 
-## Table of contents
+Proporcionar aos usuarios do sistema:
 
-- [The challenge](#the-challenge)
-- [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
-
-## The challenge
-
-Users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
+- um layout ideal do aplicativo dependendo do tamanho da tela do dispositivo
+- estados de foco para todos os elementos interativos na página
+- selecionar e enviar uma classificação numérica
+- ver o cartão de "Obrigado" após enviar uma classificação
 
 ## Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/interctive-rating-app-build-with-vite-react-andtailwindcss-YJfRM2wofY
-- Live Site URL: https://interctive-rating-gustavolarsen.vercel.app/
+- [Solução envida ao Frontend Mentor](https://www.frontendmentor.io/solutions/interctive-rating-app-build-with-vite-react-andtailwindcss-YJfRM2wofY)
+- [Projeto publicado no Vercel](https://interctive-rating-gustavolarsen.vercel.app)
 
-## Built with
+## Tecnologias utilizadas
 
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
-- [TailwindCss](https://tailwindcss.com/)
+- [TailwindCss](https://tailwindcss.com/)]
 
-## Author
+## Interfaace do sistema
+
+![](./design/desktop-preview.jpg)
+
+## Autor
 
 - Website - [Gustavo Larsen](https://github.com/gustavolarsen)
 - Frontend Mentor - [@gustavolarsen](https://www.frontendmentor.io/profile/gustavolarsen)
